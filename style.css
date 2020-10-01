@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;
+    color: orange;
 }
 a{
     color: inherit;
